@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoll Game</string>
+    <string name="win_status">Roll the dice to begin the match</string>
+    <string name="roll_dice">Roll Dice</string>
+</resources>
